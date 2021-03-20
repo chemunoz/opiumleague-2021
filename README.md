@@ -1,4 +1,21 @@
-# Opiumleague
+# Opium League
+
+Opium League is a championship of some friends over Fantasy football (soccer) game "Futmondo"
+
+Is an ANGULAR project with statistics, tables and charts for represent that competition. 
+The project is online here:
+http://opiumleague.com
+
+### NOTES:
+By the moment I don't use any database to store data, just a JSON data which has the game scores of each team in each round of spanish league "La Liga".
+
+### About Futmondo
+Is a football (soccer) Manager, you can check out more info
+
+Here: https://play.google.com/store/apps/details?id=com.mondosports.futmondo&hl=en
+Here: https://itunes.apple.com/es/app/futmondo-manager-de-futbol/id663530434?mt=8
+and here: http://www.futmondo.com/
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
